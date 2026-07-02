@@ -1,4 +1,4 @@
-package com.shivam.trees.SegmentTree;
+package com.shivam.segmenttree;
 
 public class SegmentTree {
 
