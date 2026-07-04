@@ -1,11 +1,26 @@
 # macOS
 .DS_Store
+Thumbs.db
 
-# IntelliJ
+# IntelliJ IDEA
 .idea/
 .idea_backup/
 *.iml
 out/
 
+# Java compiled files
+*.class
+
 # Logs
 *.log
+
+# Build folders (future proof)
+target/
+build/
+.gradle/
+
+# VS Code (optional)
+.vscode/
+
+# Environment files
+.env
