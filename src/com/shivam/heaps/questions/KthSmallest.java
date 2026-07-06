@@ -1,4 +1,4 @@
-package com.shivam.heaps.Questions;
+package com.shivam.heaps.questions;
 
 import java.util.Collections;
 import java.util.PriorityQueue;
